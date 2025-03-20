@@ -1,12 +1,7 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
- 
-
 ## AIM:
  
-
- 
-
 To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION:
@@ -33,7 +28,7 @@ STEP-5: Display the obtained cipher text.
 
 
 ## Program:
-
+```
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -173,7 +168,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## Output:
 ![WhatsApp Image 2025-03-20 at 08 57 52_311fcc94](https://github.com/user-attachments/assets/6c5cf547-0f57-4f58-b320-57c6bae19e74)
 
